@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Weight">Enter your Weight</string>
+    <string name="HeightF">Enter your height(in FT) </string>
+    <string name="HeightI">Enter your height(in IN) </string>
+    <string name="color_change_to_red">Color change to red</string>
+    <string name="color_change_to_purple">Color change to purple</string>
+
+</resources>
